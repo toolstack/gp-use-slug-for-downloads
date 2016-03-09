@@ -1,5 +1,5 @@
 === GP Use Slug for Downloads ===
-Contributors: gregross
+Contributors: GregRoss
 Donate link: http://toolstack.com/donate
 Plugin URI: http://glot-o-matic.com/gp-use-slug-for-downloads
 Author URI: http://toolstack.com
@@ -10,11 +10,11 @@ Stable tag: 0.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin for [GlotPress as a WordPress plugin](https://github.com/deliciousbrains/GlotPress) that uses the translation set slug for the name of the download file name.
+A plugin for GlotPress as a WordPress plugin that uses the translation set slug for the name of the download file name.
 
 == Description ==
 
-A plugin for [GlotPress as a WordPress plugin](https://github.com/deliciousbrains/GlotPress) that uses the translation set slug for the name of the download file name.
+A plugin for [GlotPress as a WordPress plugin](https://github.com/GlotPress/GlotPress-WP) that uses the translation set slug for the name of the download file name.
 
 == Installation ==
 
