@@ -3,8 +3,8 @@
 Plugin Name: GP Use Slug for Downloads
 Plugin URI: http://glot-o-matic.com/gp-use-slug-for-downloads
 Description: Use the translation set slug for the name of the download file name.
-Version: 0.5
-Author: GregRoss
+Version: 1.0
+Author: Greg Ross
 Author URI: http://toolstack.com
 Tags: glotpress, glotpress plugin 
 License: GPLv2
